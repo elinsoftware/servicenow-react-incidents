@@ -25,7 +25,7 @@ This completes development environment setup and you can run the application by 
 
 ## ServiceNow deployment
 To deploy the application into ServiceNow you need to perform the following steps:
-1. Build the applicaiton by executing `npm run build`.
+1. Build the application by executing `npm run build`.
 2. Save JS and CSS files from Build folder as _Style Sheets_ in ServiceNow.
 3. Save HTML file from Build folder as a UI page. Update references to JS/CSS correspondingly.
 
